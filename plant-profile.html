@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Profile - Brew City Roots</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        /* Additional styles specific to the profile page */
+        .profile-container {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 3rem;
+            margin-top: 2rem;
+        }
+        .profile-image-container {
+            background: var(--card-background);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 1rem;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+        .profile-image {
+            width: 100%;
+            border-radius: 12px;
+        }
+        .profile-content {
+            background: var(--card-background);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 2rem;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+        .profile-header h1 { font-size: 2.5rem; color: #fff; }
+        .profile-header h2 { font-size: 1.2rem; font-style: italic; color: #c0c0c0; margin-bottom: 1rem; }
+        .profile-summary { margin-bottom: 2rem; }
+        .profile-section { margin-bottom: 1.5rem; }
+        .profile-section h3 { font-size: 1.3rem; color: var(--accent-color); border-bottom: 1px solid var(--card-border); padding-bottom: 0.5rem; margin-bottom: 1rem; }
+        .care-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+        .care-item strong { color: #fff; }
+        @media (max-width: 900px) { .profile-container { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="background-shapes"></div>
+    <header>
+        <nav>
+            <div class="logo">Brew City Roots</div>
+            <ul>
+                <li><a href="coming-soon.html">Home</a></li>
+                <li><a href="index.html" class="active">Plant Index</a></li>
+                <li><a href="#">Care Guides</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="plant-profile-main">
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Brew City Roots | Milwaukee, WI</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const mainContent = document.getElementById('plant-profile-main');
+            const params = new URLSearchParams(window.location.search);
+            const plantId = params.get('id');
+
+            if (!plantId) {
+                mainContent.innerHTML = '<h1>Plant not found.</h1><p>Please return to the <a href="index.html">Plant Index</a>.</p>';
+                return;
+            }
+
+            try {
+                const response = await fetch('plants.json');
+                const plants = await response.json();
+                const plant = plants.find(p => p.id === plantId);
+
+                if (!plant) {
+                    mainContent.innerHTML = '<h1>Plant not found.</h1><p>Please return to the <a href="index.html">Plant Index</a>.</p>';
+                    return;
+                }
+
+                document.title = `${plant.commonName} - Brew City Roots`;
+                mainContent.innerHTML = `
+                    <div class="profile-container">
+                        <div class="profile-image-container">
+                            <img src="images/${plant.id}.jpg" alt="${plant.commonName}" class="profile-image">
+                        </div>
+                        <div class="profile-content">
+                            <div class="profile-header">
+                                <h1>${plant.commonName}</h1>
+                                <h2><em>${plant.scientificName}</em></h2>
+                            </div>
+                            <p class="profile-summary">${plant.summary}</p>
+                            
+                            <div class="profile-section">
+                                <h3>Origin</h3>
+                                <p><strong>Native Area:</strong> ${plant.origin.nativeArea}</p>
+                                <p><strong>History:</strong> ${plant.origin.history}</p>
+                            </div>
+
+                            <div class="profile-section">
+                                <h3>Care Regimen</h3>
+                                <div class="care-grid">
+                                    <div class="care-item"><strong>Light:</strong> ${plant.careRegimen.light}</div>
+                                    <div class="care-item"><strong>Water:</strong> ${plant.careRegimen.water}</div>
+                                    <div class="care-item"><strong>Soil:</strong> ${plant.careRegimen.soil.mix} (pH: ${plant.careRegimen.soil.ph})</div>
+                                    <div class="care-item"><strong>Temperature:</strong> ${plant.careRegimen.temperature.ideal}. ${plant.careRegimen.temperature.notes}</div>
+                                    <div class="care-item"><strong>Humidity:</strong> ${plant.careRegimen.humidity.level}. ${plant.careRegimen.humidity.tips}</div>
+                                    <div class="care-item"><strong>Fertilizer:</strong> ${plant.careRegimen.fertilizer}</div>
+                                </div>
+                                <p style="margin-top: 1rem;"><strong>Maintenance:</strong> ${plant.careRegimen.maintenance}</p>
+                            </div>
+
+                            <div class="profile-section">
+                                <h3>Symbiotic Relationships</h3>
+                                <p><strong>Indoor Companionship:</strong> ${plant.symbioticRelationships.indoor}</p>
+                                ${plant.symbioticRelationships.outdoor !== 'Not applicable for Milwaukee climate.' ? `<p><strong>Outdoor (Milwaukee):</strong> ${plant.symbioticRelationships.outdoor}</p>` : ''}
+                                <p><strong>Ecological Notes:</strong> ${plant.symbioticRelationships.ecologicalNotes}</p>
+                            </div>
+                        </div>
+                    </div>
+                `;
+
+            } catch (error) {
+                console.error('Error loading plant profile:', error);
+                mainContent.innerHTML = '<h1>Error</h1><p>Could not load plant details. Please try again.</p>';
+            }
+        });
+    </script>
+</body>
+</html>

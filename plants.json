@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "monstera-deliciosa",
+    "commonName": "Swiss Cheese Plant",
+    "scientificName": "Monstera deliciosa",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Swiss Cheese Plant.",
+    "origin": {
+      "nativeArea": "Native area for Swiss Cheese Plant.",
+      "history": "History of Swiss Cheese Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Swiss Cheese Plant.",
+      "water": "Watering guidelines for Swiss Cheese Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Swiss Cheese Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Swiss Cheese Plant."
+    }
+  },
+  {
+    "id": "ficus-lyrata",
+    "commonName": "Fiddle Leaf Fig",
+    "scientificName": "Ficus lyrata",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Fiddle Leaf Fig.",
+    "origin": {
+      "nativeArea": "Native area for Fiddle Leaf Fig.",
+      "history": "History of Fiddle Leaf Fig."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Fiddle Leaf Fig.",
+      "water": "Watering guidelines for Fiddle Leaf Fig.",
+      "soil": {
+        "mix": "Well-draining soil mix for Fiddle Leaf Fig.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Fiddle Leaf Fig."
+    }
+  },
+  {
+    "id": "dracaena-trifasciata",
+    "commonName": "Snake Plant",
+    "scientificName": "Dracaena trifasciata",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Snake Plant.",
+    "origin": {
+      "nativeArea": "Native area for Snake Plant.",
+      "history": "History of Snake Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Snake Plant.",
+      "water": "Watering guidelines for Snake Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Snake Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Snake Plant."
+    }
+  },
+  {
+    "id": "zamioculcas-zamiifolia",
+    "commonName": "ZZ Plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about ZZ Plant.",
+    "origin": {
+      "nativeArea": "Native area for ZZ Plant.",
+      "history": "History of ZZ Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for ZZ Plant.",
+      "water": "Watering guidelines for ZZ Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for ZZ Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of ZZ Plant."
+    }
+  },
+  {
+    "id": "epipremnum-aureum",
+    "commonName": "Golden Pothos",
+    "scientificName": "Epipremnum aureum",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Golden Pothos.",
+    "origin": {
+      "nativeArea": "Native area for Golden Pothos.",
+      "history": "History of Golden Pothos."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Golden Pothos.",
+      "water": "Watering guidelines for Golden Pothos.",
+      "soil": {
+        "mix": "Well-draining soil mix for Golden Pothos.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Golden Pothos."
+    }
+  },
+  {
+    "id": "philodendron-hederaceum",
+    "commonName": "Heartleaf Philodendron",
+    "scientificName": "Philodendron hederaceum",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Heartleaf Philodendron.",
+    "origin": {
+      "nativeArea": "Native area for Heartleaf Philodendron.",
+      "history": "History of Heartleaf Philodendron."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Heartleaf Philodendron.",
+      "water": "Watering guidelines for Heartleaf Philodendron.",
+      "soil": {
+        "mix": "Well-draining soil mix for Heartleaf Philodendron.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Heartleaf Philodendron."
+    }
+  },
+  {
+    "id": "stromanthe-triostar",
+    "commonName": "Stromanthe Triostar",
+    "scientificName": "Stromanthe sanguinea 'Triostar'",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Stromanthe Triostar.",
+    "origin": {
+      "nativeArea": "Native area for Stromanthe Triostar.",
+      "history": "History of Stromanthe Triostar."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Stromanthe Triostar.",
+      "water": "Watering guidelines for Stromanthe Triostar.",
+      "soil": {
+        "mix": "Well-draining soil mix for Stromanthe Triostar.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Stromanthe Triostar."
+    }
+  },
+  {
+    "id": "alocasia-baginda",
+    "commonName": "Dragon Scale Alocasia",
+    "scientificName": "Alocasia baginda 'Dragon Scale'",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Dragon Scale Alocasia.",
+    "origin": {
+      "nativeArea": "Native area for Dragon Scale Alocasia.",
+      "history": "History of Dragon Scale Alocasia."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Dragon Scale Alocasia.",
+      "water": "Watering guidelines for Dragon Scale Alocasia.",
+      "soil": {
+        "mix": "Well-draining soil mix for Dragon Scale Alocasia.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Dragon Scale Alocasia."
+    }
+  },
+  {
+    "id": "hoya-carnosa",
+    "commonName": "Wax Plant",
+    "scientificName": "Hoya carnosa",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Wax Plant.",
+    "origin": {
+      "nativeArea": "Native area for Wax Plant.",
+      "history": "History of Wax Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Wax Plant.",
+      "water": "Watering guidelines for Wax Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Wax Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Wax Plant."
+    }
+  },
+  {
+    "id": "calathea-orbifolia",
+    "commonName": "Calathea Orbifolia",
+    "scientificName": "Goeppertia orbifolia",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Calathea Orbifolia.",
+    "origin": {
+      "nativeArea": "Native area for Calathea Orbifolia.",
+      "history": "History of Calathea Orbifolia."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Calathea Orbifolia.",
+      "water": "Watering guidelines for Calathea Orbifolia.",
+      "soil": {
+        "mix": "Well-draining soil mix for Calathea Orbifolia.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Calathea Orbifolia."
+    }
+  },
+  {
+    "id": "strelitzia-nicolai",
+    "commonName": "White Bird of Paradise",
+    "scientificName": "Strelitzia nicolai",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor/Outdoor",
+    "summary": "Basic information about White Bird of Paradise.",
+    "origin": {
+      "nativeArea": "Native area for White Bird of Paradise.",
+      "history": "History of White Bird of Paradise."
+    },
+    "careRegimen": {
+      "light": "Light requirements for White Bird of Paradise.",
+      "water": "Watering guidelines for White Bird of Paradise.",
+      "soil": {
+        "mix": "Well-draining soil mix for White Bird of Paradise.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of White Bird of Paradise."
+    }
+  },
+  {
+    "id": "dypsis-lutescens",
+    "commonName": "Areca Palm",
+    "scientificName": "Dypsis lutescens",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Areca Palm.",
+    "origin": {
+      "nativeArea": "Native area for Areca Palm.",
+      "history": "History of Areca Palm."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Areca Palm.",
+      "water": "Watering guidelines for Areca Palm.",
+      "soil": {
+        "mix": "Well-draining soil mix for Areca Palm.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Areca Palm."
+    }
+  },
+  {
+    "id": "ficus-elastica-tineke",
+    "commonName": "Variegated Rubber Plant",
+    "scientificName": "Ficus elastica 'Tineke'",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Variegated Rubber Plant.",
+    "origin": {
+      "nativeArea": "Native area for Variegated Rubber Plant.",
+      "history": "History of Variegated Rubber Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Variegated Rubber Plant.",
+      "water": "Watering guidelines for Variegated Rubber Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Variegated Rubber Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Variegated Rubber Plant."
+    }
+  },
+  {
+    "id": "chlorophytum-comosum",
+    "commonName": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Spider Plant.",
+    "origin": {
+      "nativeArea": "Native area for Spider Plant.",
+      "history": "History of Spider Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Spider Plant.",
+      "water": "Watering guidelines for Spider Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Spider Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Spider Plant."
+    }
+  },
+  {
+    "id": "spathiphyllum-wallisii",
+    "commonName": "Peace Lily",
+    "scientificName": "Spathiphyllum wallisii",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Peace Lily.",
+    "origin": {
+      "nativeArea": "Native area for Peace Lily.",
+      "history": "History of Peace Lily."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Peace Lily.",
+      "water": "Watering guidelines for Peace Lily.",
+      "soil": {
+        "mix": "Well-draining soil mix for Peace Lily.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Peace Lily."
+    }
+  },
+  {
+    "id": "philodendron-birkin",
+    "commonName": "Philodendron Birkin",
+    "scientificName": "Philodendron 'Birkin'",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Philodendron Birkin.",
+    "origin": {
+      "nativeArea": "Native area for Philodendron Birkin.",
+      "history": "History of Philodendron Birkin."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Philodendron Birkin.",
+      "water": "Watering guidelines for Philodendron Birkin.",
+      "soil": {
+        "mix": "Well-draining soil mix for Philodendron Birkin.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Philodendron Birkin."
+    }
+  },
+  {
+    "id": "epipremnum-pinnatum-cebu",
+    "commonName": "Cebu Blue Pothos",
+    "scientificName": "Epipremnum pinnatum 'Cebu Blue'",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Cebu Blue Pothos.",
+    "origin": {
+      "nativeArea": "Native area for Cebu Blue Pothos.",
+      "history": "History of Cebu Blue Pothos."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Cebu Blue Pothos.",
+      "water": "Watering guidelines for Cebu Blue Pothos.",
+      "soil": {
+        "mix": "Well-draining soil mix for Cebu Blue Pothos.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Cebu Blue Pothos."
+    }
+  },
+  {
+    "id": "curio-rowleyanus",
+    "commonName": "String of Pearls",
+    "scientificName": "Curio rowleyanus",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about String of Pearls.",
+    "origin": {
+      "nativeArea": "Native area for String of Pearls.",
+      "history": "History of String of Pearls."
+    },
+    "careRegimen": {
+      "light": "Light requirements for String of Pearls.",
+      "water": "Watering guidelines for String of Pearls.",
+      "soil": {
+        "mix": "Well-draining soil mix for String of Pearls.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of String of Pearls."
+    }
+  },
+  {
+    "id": "saintpaulia-ionantha",
+    "commonName": "African Violet",
+    "scientificName": "Saintpaulia ionantha",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about African Violet.",
+    "origin": {
+      "nativeArea": "Native area for African Violet.",
+      "history": "History of African Violet."
+    },
+    "careRegimen": {
+      "light": "Light requirements for African Violet.",
+      "water": "Watering guidelines for African Violet.",
+      "soil": {
+        "mix": "Well-draining soil mix for African Violet.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of African Violet."
+    }
+  },
+  {
+    "id": "aspidistra-elatior",
+    "commonName": "Cast Iron Plant",
+    "scientificName": "Aspidistra elatior",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Cast Iron Plant.",
+    "origin": {
+      "nativeArea": "Native area for Cast Iron Plant.",
+      "history": "History of Cast Iron Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Cast Iron Plant.",
+      "water": "Watering guidelines for Cast Iron Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Cast Iron Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Cast Iron Plant."
+    }
+  },
+  {
+    "id": "ficus-benghalensis",
+    "commonName": "Ficus Audrey",
+    "scientificName": "Ficus benghalensis 'Audrey'",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Ficus Audrey.",
+    "origin": {
+      "nativeArea": "Native area for Ficus Audrey.",
+      "history": "History of Ficus Audrey."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Ficus Audrey.",
+      "water": "Watering guidelines for Ficus Audrey.",
+      "soil": {
+        "mix": "Well-draining soil mix for Ficus Audrey.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Ficus Audrey."
+    }
+  },
+  {
+    "id": "pachira-aquatica",
+    "commonName": "Money Tree",
+    "scientificName": "Pachira aquatica",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Money Tree.",
+    "origin": {
+      "nativeArea": "Native area for Money Tree.",
+      "history": "History of Money Tree."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Money Tree.",
+      "water": "Watering guidelines for Money Tree.",
+      "soil": {
+        "mix": "Well-draining soil mix for Money Tree.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Money Tree."
+    }
+  },
+  {
+    "id": "phalaenopsis-orchid",
+    "commonName": "Moth Orchid",
+    "scientificName": "Phalaenopsis spp.",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Moth Orchid.",
+    "origin": {
+      "nativeArea": "Native area for Moth Orchid.",
+      "history": "History of Moth Orchid."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Moth Orchid.",
+      "water": "Watering guidelines for Moth Orchid.",
+      "soil": {
+        "mix": "Well-draining soil mix for Moth Orchid.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Moth Orchid."
+    }
+  },
+  {
+    "id": "dracaena-marginata",
+    "commonName": "Dragon Tree",
+    "scientificName": "Dracaena marginata",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Dragon Tree.",
+    "origin": {
+      "nativeArea": "Native area for Dragon Tree.",
+      "history": "History of Dragon Tree."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Dragon Tree.",
+      "water": "Watering guidelines for Dragon Tree.",
+      "soil": {
+        "mix": "Well-draining soil mix for Dragon Tree.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Dragon Tree."
+    }
+  },
+  {
+    "id": "crassula-ovata",
+    "commonName": "Jade Plant",
+    "scientificName": "Crassula ovata",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Jade Plant.",
+    "origin": {
+      "nativeArea": "Native area for Jade Plant.",
+      "history": "History of Jade Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Jade Plant.",
+      "water": "Watering guidelines for Jade Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Jade Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Jade Plant."
+    }
+  },
+  {
+    "id": "aloe-barbadensis-miller",
+    "commonName": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor/Outdoor",
+    "summary": "Basic information about Aloe Vera.",
+    "origin": {
+      "nativeArea": "Native area for Aloe Vera.",
+      "history": "History of Aloe Vera."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Aloe Vera.",
+      "water": "Watering guidelines for Aloe Vera.",
+      "soil": {
+        "mix": "Well-draining soil mix for Aloe Vera.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Aloe Vera."
+    }
+  },
+  {
+    "id": "tillandsia-ionantha",
+    "commonName": "Air Plant",
+    "scientificName": "Tillandsia ionantha",
+    "category": "Trending Houseplant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Air Plant.",
+    "origin": {
+      "nativeArea": "Native area for Air Plant.",
+      "history": "History of Air Plant."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Air Plant.",
+      "water": "Watering guidelines for Air Plant.",
+      "soil": {
+        "mix": "Well-draining soil mix for Air Plant.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Air Plant."
+    }
+  },
+  {
+    "id": "monstera-esqueleto",
+    "commonName": "Monstera Esqueleto",
+    "scientificName": "Monstera epipremnoides",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Monstera Esqueleto.",
+    "origin": {
+      "nativeArea": "Native area for Monstera Esqueleto.",
+      "history": "History of Monstera Esqueleto."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Monstera Esqueleto.",
+      "water": "Watering guidelines for Monstera Esqueleto.",
+      "soil": {
+        "mix": "Well-draining soil mix for Monstera Esqueleto.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Monstera Esqueleto."
+    }
+  },
+  {
+    "id": "monstera-thai-constellation",
+    "commonName": "Thai Constellation Monstera",
+    "scientificName": "Monstera deliciosa 'Thai Constellation'",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Thai Constellation Monstera.",
+    "origin": {
+      "nativeArea": "Native area for Thai Constellation Monstera.",
+      "history": "History of Thai Constellation Monstera."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Thai Constellation Monstera.",
+      "water": "Watering guidelines for Thai Constellation Monstera.",
+      "soil": {
+        "mix": "Well-draining soil mix for Thai Constellation Monstera.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Thai Constellation Monstera."
+    }
+  },
+  {
+    "id": "monstera-albo-borsigiana",
+    "commonName": "Albo Monstera",
+    "scientificName": "Monstera deliciosa 'Albo Borsigiana'",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Albo Monstera.",
+    "origin": {
+      "nativeArea": "Native area for Albo Monstera.",
+      "history": "History of Albo Monstera."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Albo Monstera.",
+      "water": "Watering guidelines for Albo Monstera.",
+      "soil": {
+        "mix": "Well-draining soil mix for Albo Monstera.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Albo Monstera."
+    }
+  },
+  {
+    "id": "alocasia-frydek-variegata",
+    "commonName": "Variegated Frydek",
+    "scientificName": "Alocasia micholitziana 'Frydek' Variegata",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Variegated Frydek.",
+    "origin": {
+      "nativeArea": "Native area for Variegated Frydek.",
+      "history": "History of Variegated Frydek."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Variegated Frydek.",
+      "water": "Watering guidelines for Variegated Frydek.",
+      "soil": {
+        "mix": "Well-draining soil mix for Variegated Frydek.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Variegated Frydek."
+    }
+  },
+  {
+    "id": "philodendron-pink-princess",
+    "commonName": "Pink Princess Philodendron",
+    "scientificName": "Philodendron erubescens 'Pink Princess'",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Pink Princess Philodendron.",
+    "origin": {
+      "nativeArea": "Native area for Pink Princess Philodendron.",
+      "history": "History of Pink Princess Philodendron."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Pink Princess Philodendron.",
+      "water": "Watering guidelines for Pink Princess Philodendron.",
+      "soil": {
+        "mix": "Well-draining soil mix for Pink Princess Philodendron.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Pink Princess Philodendron."
+    }
+  },
+  {
+    "id": "philodendron-florida-ghost",
+    "commonName": "Florida Ghost Philodendron",
+    "scientificName": "Philodendron 'Florida Ghost'",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Florida Ghost Philodendron.",
+    "origin": {
+      "nativeArea": "Native area for Florida Ghost Philodendron.",
+      "history": "History of Florida Ghost Philodendron."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Florida Ghost Philodendron.",
+      "water": "Watering guidelines for Florida Ghost Philodendron.",
+      "soil": {
+        "mix": "Well-draining soil mix for Florida Ghost Philodendron.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Florida Ghost Philodendron."
+    }
+  },
+  {
+    "id": "philodendron-gloriosum",
+    "commonName": "Philodendron Gloriosum",
+    "scientificName": "Philodendron gloriosum",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Philodendron Gloriosum.",
+    "origin": {
+      "nativeArea": "Native area for Philodendron Gloriosum.",
+      "history": "History of Philodendron Gloriosum."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Philodendron Gloriosum.",
+      "water": "Watering guidelines for Philodendron Gloriosum.",
+      "soil": {
+        "mix": "Well-draining soil mix for Philodendron Gloriosum.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Philodendron Gloriosum."
+    }
+  },
+  {
+    "id": "philodendron-melanochrysum",
+    "commonName": "Black Gold Philodendron",
+    "scientificName": "Philodendron melanochrysum",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Black Gold Philodendron.",
+    "origin": {
+      "nativeArea": "Native area for Black Gold Philodendron.",
+      "history": "History of Black Gold Philodendron."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Black Gold Philodendron.",
+      "water": "Watering guidelines for Black Gold Philodendron.",
+      "soil": {
+        "mix": "Well-draining soil mix for Black Gold Philodendron.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Black Gold Philodendron."
+    }
+  },
+  {
+    "id": "anthurium-warocqueanum",
+    "commonName": "Queen Anthurium",
+    "scientificName": "Anthurium warocqueanum",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Queen Anthurium.",
+    "origin": {
+      "nativeArea": "Native area for Queen Anthurium.",
+      "history": "History of Queen Anthurium."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Queen Anthurium.",
+      "water": "Watering guidelines for Queen Anthurium.",
+      "soil": {
+        "mix": "Well-draining soil mix for Queen Anthurium.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Queen Anthurium."
+    }
+  },
+  {
+    "id": "alocasia-azlanii",
+    "commonName": "Red Mambo Alocasia",
+    "scientificName": "Alocasia azlanii",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Red Mambo Alocasia.",
+    "origin": {
+      "nativeArea": "Native area for Red Mambo Alocasia.",
+      "history": "History of Red Mambo Alocasia."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Red Mambo Alocasia.",
+      "water": "Watering guidelines for Red Mambo Alocasia.",
+      "soil": {
+        "mix": "Well-draining soil mix for Red Mambo Alocasia.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Red Mambo Alocasia."
+    }
+  },
+  {
+    "id": "philodendron-spiritus-sancti",
+    "commonName": "Philodendron Spiritus Sancti",
+    "scientificName": "Philodendron spiritus-sancti",
+    "category": "Rare Collector's Plant",
+    "primaryEnvironment": "Indoor",
+    "summary": "Basic information about Philodendron Spiritus Sancti.",
+    "origin": {
+      "nativeArea": "Native area for Philodendron Spiritus Sancti.",
+      "history": "History of Philodendron Spiritus Sancti."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Philodendron Spiritus Sancti.",
+      "water": "Watering guidelines for Philodendron Spiritus Sancti.",
+      "soil": {
+        "mix": "Well-draining soil mix for Philodendron Spiritus Sancti.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Not applicable for Milwaukee climate.",
+      "ecologicalNotes": "Ecological role of Philodendron Spiritus Sancti."
+    }
+  },
+  {
+    "id": "echinacea-purpurea",
+    "commonName": "Purple Coneflower",
+    "scientificName": "Echinacea purpurea",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Purple Coneflower.",
+    "origin": {
+      "nativeArea": "Native area for Purple Coneflower.",
+      "history": "History of Purple Coneflower."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Purple Coneflower.",
+      "water": "Watering guidelines for Purple Coneflower.",
+      "soil": {
+        "mix": "Well-draining soil mix for Purple Coneflower.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Purple Coneflower."
+    }
+  },
+  {
+    "id": "rudbeckia-hirta",
+    "commonName": "Black-Eyed Susan",
+    "scientificName": "Rudbeckia hirta",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Black-Eyed Susan.",
+    "origin": {
+      "nativeArea": "Native area for Black-Eyed Susan.",
+      "history": "History of Black-Eyed Susan."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Black-Eyed Susan.",
+      "water": "Watering guidelines for Black-Eyed Susan.",
+      "soil": {
+        "mix": "Well-draining soil mix for Black-Eyed Susan.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Black-Eyed Susan."
+    }
+  },
+  {
+    "id": "panicum-virgatum-shenandoah",
+    "commonName": "Shenandoah Switchgrass",
+    "scientificName": "Panicum virgatum 'Shenandoah'",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Shenandoah Switchgrass.",
+    "origin": {
+      "nativeArea": "Native area for Shenandoah Switchgrass.",
+      "history": "History of Shenandoah Switchgrass."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Shenandoah Switchgrass.",
+      "water": "Watering guidelines for Shenandoah Switchgrass.",
+      "soil": {
+        "mix": "Well-draining soil mix for Shenandoah Switchgrass.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Shenandoah Switchgrass."
+    }
+  },
+  {
+    "id": "hosta-patriot",
+    "commonName": "Patriot Hosta",
+    "scientificName": "Hosta 'Patriot'",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Patriot Hosta.",
+    "origin": {
+      "nativeArea": "Native area for Patriot Hosta.",
+      "history": "History of Patriot Hosta."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Patriot Hosta.",
+      "water": "Watering guidelines for Patriot Hosta.",
+      "soil": {
+        "mix": "Well-draining soil mix for Patriot Hosta.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Patriot Hosta."
+    }
+  },
+  {
+    "id": "hemerocallis-stella-de-oro",
+    "commonName": "Stella de Oro Daylily",
+    "scientificName": "Hemerocallis 'Stella de Oro'",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Stella de Oro Daylily.",
+    "origin": {
+      "nativeArea": "Native area for Stella de Oro Daylily.",
+      "history": "History of Stella de Oro Daylily."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Stella de Oro Daylily.",
+      "water": "Watering guidelines for Stella de Oro Daylily.",
+      "soil": {
+        "mix": "Well-draining soil mix for Stella de Oro Daylily.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Stella de Oro Daylily."
+    }
+  },
+  {
+    "id": "hylotelephium-autumn-joy",
+    "commonName": "Autumn Joy Sedum",
+    "scientificName": "Hylotelephium 'Herbstfreude' (Autumn Joy)",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Autumn Joy Sedum.",
+    "origin": {
+      "nativeArea": "Native area for Autumn Joy Sedum.",
+      "history": "History of Autumn Joy Sedum."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Autumn Joy Sedum.",
+      "water": "Watering guidelines for Autumn Joy Sedum.",
+      "soil": {
+        "mix": "Well-draining soil mix for Autumn Joy Sedum.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Autumn Joy Sedum."
+    }
+  },
+  {
+    "id": "salvia-nemorosa-may-night",
+    "commonName": "May Night Salvia",
+    "scientificName": "Salvia nemorosa 'Mainacht' (May Night)",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about May Night Salvia.",
+    "origin": {
+      "nativeArea": "Native area for May Night Salvia.",
+      "history": "History of May Night Salvia."
+    },
+    "careRegimen": {
+      "light": "Light requirements for May Night Salvia.",
+      "water": "Watering guidelines for May Night Salvia.",
+      "soil": {
+        "mix": "Well-draining soil mix for May Night Salvia.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of May Night Salvia."
+    }
+  },
+  {
+    "id": "astilbe-fanal",
+    "commonName": "Fanal Astilbe",
+    "scientificName": "Astilbe x arendsii 'Fanal'",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Fanal Astilbe.",
+    "origin": {
+      "nativeArea": "Native area for Fanal Astilbe.",
+      "history": "History of Fanal Astilbe."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Fanal Astilbe.",
+      "water": "Watering guidelines for Fanal Astilbe.",
+      "soil": {
+        "mix": "Well-draining soil mix for Fanal Astilbe.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Fanal Astilbe."
+    }
+  },
+  {
+    "id": "nepeta-faassenii-walkers-low",
+    "commonName": "Walker's Low Catmint",
+    "scientificName": "Nepeta x faassenii 'Walker's Low'",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Walker's Low Catmint.",
+    "origin": {
+      "nativeArea": "Native area for Walker's Low Catmint.",
+      "history": "History of Walker's Low Catmint."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Walker's Low Catmint.",
+      "water": "Watering guidelines for Walker's Low Catmint.",
+      "soil": {
+        "mix": "Well-draining soil mix for Walker's Low Catmint.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Walker's Low Catmint."
+    }
+  },
+  {
+    "id": "lamprocapnos-spectabilis",
+    "commonName": "Bleeding Heart",
+    "scientificName": "Lamprocapnos spectabilis",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Bleeding Heart.",
+    "origin": {
+      "nativeArea": "Native area for Bleeding Heart.",
+      "history": "History of Bleeding Heart."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Bleeding Heart.",
+      "water": "Watering guidelines for Bleeding Heart.",
+      "soil": {
+        "mix": "Well-draining soil mix for Bleeding Heart.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Bleeding Heart."
+    }
+  },
+  {
+    "id": "athyrium-niponicum-pictum",
+    "commonName": "Japanese Painted Fern",
+    "scientificName": "Athyrium niponicum var. pictum",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Japanese Painted Fern.",
+    "origin": {
+      "nativeArea": "Native area for Japanese Painted Fern.",
+      "history": "History of Japanese Painted Fern."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Japanese Painted Fern.",
+      "water": "Watering guidelines for Japanese Painted Fern.",
+      "soil": {
+        "mix": "Well-draining soil mix for Japanese Painted Fern.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Japanese Painted Fern."
+    }
+  },
+  {
+    "id": "paeonia-lactiflora-sarah",
+    "commonName": "Sarah Bernhardt Peony",
+    "scientificName": "Paeonia lactiflora 'Sarah Bernhardt'",
+    "category": "Milwaukee Hardy Perennial",
+    "primaryEnvironment": "Outdoor",
+    "summary": "Basic information about Sarah Bernhardt Peony.",
+    "origin": {
+      "nativeArea": "Native area for Sarah Bernhardt Peony.",
+      "history": "History of Sarah Bernhardt Peony."
+    },
+    "careRegimen": {
+      "light": "Light requirements for Sarah Bernhardt Peony.",
+      "water": "Watering guidelines for Sarah Bernhardt Peony.",
+      "soil": {
+        "mix": "Well-draining soil mix for Sarah Bernhardt Peony.",
+        "ph": "6.0 - 7.0"
+      },
+      "temperature": {
+        "ideal": "65-85\u00b0F (18-29\u00b0C)",
+        "notes": "Protect from extreme temperatures."
+      },
+      "humidity": {
+        "level": "Moderate humidity.",
+        "tips": "Increase humidity if air is very dry."
+      },
+      "fertilizer": "Feed monthly during growing season.",
+      "maintenance": "Remove dead or yellowing leaves as needed."
+    },
+    "symbioticRelationships": {
+      "indoor": "Pairs well with other plants in similar conditions.",
+      "outdoor": "Combine with other native perennials for pollinator support.",
+      "ecologicalNotes": "Ecological role of Sarah Bernhardt Peony."
+    }
+  }
+]
